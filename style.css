@@ -19,7 +19,11 @@
 .who-are-we-bg{
   height: 46vh;
   background-color: #f2f2f2;
+  overflow: scroll
 }
 p{
   font-size: 18px;
+}
+::-webkit-scrollbar{
+  display: none;
 }
