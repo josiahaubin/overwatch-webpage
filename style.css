@@ -1,0 +1,15 @@
+.bg-top-img {
+  background-image: url('https://vignette.wikia.nocookie.net/overwatch/images/0/0d/Kingsrow_screenshot_7.png/revision/latest?cb=20160711193951');
+  height: 46vh;
+  background-size: cover;
+}
+.bg-mid-img {
+  background-image: url('https://vignette.wikia.nocookie.net/overwatch/images/4/4c/Gibraltar_screenshot_6.png/revision/latest?cb=20160710222854')
+}
+.logo-img {
+  height: 100px;
+  width: 100px;
+}
+.main-title{
+  font-size: 50px;
+}
