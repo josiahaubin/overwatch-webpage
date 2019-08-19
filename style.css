@@ -4,7 +4,9 @@
   background-size: cover;
 }
 .bg-mid-img {
-  background-image: url('https://vignette.wikia.nocookie.net/overwatch/images/4/4c/Gibraltar_screenshot_6.png/revision/latest?cb=20160710222854')
+  background-image: url('https://vignette.wikia.nocookie.net/overwatch/images/4/4c/Gibraltar_screenshot_6.png/revision/latest?cb=20160710222854');
+  height: 60vh;
+  background-size: cover;
 }
 .logo-img {
   height: 100px;
